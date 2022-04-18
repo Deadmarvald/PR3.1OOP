@@ -1,0 +1,5 @@
+﻿  Real.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR3.1\PR3.1\Real.cpp(32,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  PR3.1.vcxproj -> D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR3.1\Debug\PR3.1.exe
